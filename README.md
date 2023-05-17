@@ -1,7 +1,10 @@
 # IPS
 
 ## 环境配置
-版本requirements.txt: fairseq, pytorch 1.7.1等
+版本requirements.txt: 
+fairseq 1.0.0a0+01576be
+pytorch 1.7.1
+...
 
 ## 数据处理
 在数据集文件夹News中处理数据
